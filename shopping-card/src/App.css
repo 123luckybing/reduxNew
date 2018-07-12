@@ -1,0 +1,13 @@
+.product-title {
+  display: -webkit-box;
+  width: 600px;
+}
+.App {
+  width: 1000px;
+}
+.product-list {
+  text-align: center;
+  display: block;
+  width: 0;
+  -webkit-box-flex: 1;
+}
